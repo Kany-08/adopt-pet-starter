@@ -1,5 +1,5 @@
 # This is Codecademy Project
-![](/screenshot/ReactApp.mp4)
+
 
 
 # Getting Started with Create React App
