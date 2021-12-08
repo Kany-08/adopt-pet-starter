@@ -1,2 +1,5 @@
-node_modules
-
+node_modules,
+.gitignore,
+package.json,
+yarn.lock,
+package-lock.json
