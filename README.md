@@ -1,6 +1,6 @@
 # This is Codecademy Project
 
-
+![](screenshot/react-app.gif)
 
 # Getting Started with Create React App
 
